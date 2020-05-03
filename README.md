@@ -1,3 +1,3 @@
 # roco
 OPTICAL RECOGNITION COMMAND
-This library recognice a paper POS ticket putting in the right place and recognize the charecters
+This library recognice a paper POS ticket with perspective correction using opencv and c . Python ctypes and recognize the characters
